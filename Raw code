@@ -1,0 +1,42 @@
+<style>
+  body {
+    background-color: grey;
+  }
+  h2 {
+    
+  }
+  h3{
+    
+  }
+</style>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-4">
+      <a href=https://codepen.io/Gowanjesse/# target="_blank">
+        <img class="responsive" src=https://s3-us-west-2.amazonaws.com/s.cdpn.io/1345927/profile/profile-80.jpg?100000 target="_null">
+        The J man himself
+        </img>
+      </a>
+    </div>
+    <div class="col-md-4">
+    </div>
+    <div class="col-md-4">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-2" style="background: white">
+    </div>
+    <div class="col-md-8" style="background: grey">
+      <h2 class=" text-center">
+        Ladies and Gentlemen! Welcome to the page that astounds even myself!...Especially myself as I hand-crafted the thing myself. Please enjoy the refreshments in your fridge, it's on the house after all.
+      </h2>
+      <h2 class="text-primary text-center">
+        My name is Jesse Gowan and if there's any questions you might have, may I refer you to the quick-travel bar above these text brackets
+      </h2>
+    </div>
+    <div class="col-md-2" style="background: black">
+    </div>
+  </div>
+  
+</div>
